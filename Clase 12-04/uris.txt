@@ -1,0 +1,3 @@
+uri bien formado: https://www.cookbag.com.ar/collections/familiar/products/pechito-de-cerdo-a-la-cerveza
+
+uri mal formado: http://www.intercordoba.com.ar/intercordoba-yaviene.php  Los parámetros de búsqueda no aparecen
