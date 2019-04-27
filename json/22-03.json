@@ -1,0 +1,13 @@
+{
+"Nombre" : "Franco",
+"Apellido" : "Acosta",
+"Carrera" : "Ingeniería en Sistemas de Información",
+"Legajo" : 69598,
+"Universidad" : "UTN",
+"Facultad" : "FRC",
+"Materias cursadas" : [
+  {"idMateria" : "1", "nombre" : "ACO"},
+  {"idMateria" : "2", "nombre" : "AED"},
+  {"idMateria" : "3", "nombre" : "Física"}],
+"Finales aplazados" : ["Física I"]
+}
